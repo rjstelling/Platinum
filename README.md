@@ -149,3 +149,7 @@ It's a short form that covers our bases and makes sure you're eligible to contri
 When you have a change you'd like to see in the master repository, [send a pull request](https://github.com/plutinosoft/Platinum/pulls). Before we merge your request, we'll make sure you're in the list of people who have signed a CLA.
 
 Thanks!
+
+---
+
+[Contact](https://agent-mailbox.richardstelling.com/#contact)
